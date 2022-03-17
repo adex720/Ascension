@@ -77,7 +77,9 @@ The bot has done well for years even without feature like this, and is popular a
 ## Opinions from several people <a name="opinion"></a>
 
 ### ADEX##2242 (Prestige 379) <a name="opinion-adex"></a>:
-I haven't had long term problems with low motivation yet am at almost prestige 400. Some altrenatives would be good, but they can be other forms as "enchaned prestige". A good example of this is the recent feature farming. 
+I haven't had long term problems with low motivation yet am at almost prestige 400. Some altrenatives would be good, but they can be other forms as "enchaned prestige".
+I personally get more motivation from frequent smaller updates then from seldom big changes. Farming has given me a lot motivation, mostly from being high on the leaderboard, but also at the start, from exploring the new mechanics.
+I hope that if ascensions will become a thing, they would have new things to explore and sample with.
 
 
 
