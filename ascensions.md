@@ -21,8 +21,11 @@
 
 ## Overall thoughts on ascension <a name="thoughts"></a>
 
-Currently the game already has two forms of progression: rebirths and prestiges.
-.
+This feedback is split into 3 different groups.
+First group contains arguments for which style to choose or to not implement it at all. Each of them contains arguments both as overall and in three different perspectives: **low**, **middle** and **high** prestige players.
+- Low prestige is relevant for people under prestige 100.
+- Middle prestige is relevant for people between prestiges 100 and 400.
+- High prestige is relevant for people past prestige 300.
 
 One of the most important things is that it shouldn't be mandatory. With a hundred players past prestige 250, it is almsot impossible to get all of them feel like it's worth it. At least if the ascensions are wanted to be kept in a stage where calling them balanced is understandable.
 A bigger impact would be if implemented well, many old players can get motivation back.
