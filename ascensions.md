@@ -71,7 +71,7 @@ Ascensions will become significantly easier the more you have them matching the 
 
 ### From the perspective of middle prestige player <a name="concept-a-middle"></a>
 
-### rom the perspective of low prestige player <a name="concept-a-low"></a>
+### From the perspective of low prestige player <a name="concept-a-low"></a>
 
 
 ## Reasons to add ascension concept B <a name="concept-b"></a>
