@@ -2,9 +2,9 @@
 
 ## Table of content:
 
-1. [Overall thoughs on ascension by Adex](thoughts)
-1. [Reasons to not add ascensions](no-implement)
-    1. [From the perspective of high prestige player](no-implement-high)
+1. [Overall thoughs on ascension by Adex](#thoughts)
+1. [Reasons to not add ascensions](#no-implement)
+    1. [From the perspective of high prestige player](#no-implement-high)
     1. [From the perspective of middle prestige player](no-implement-middle)
     1. [From the perspective of low prestige player](no-implement-low)
 1. [Reasons to add ascension option A](option-a)
