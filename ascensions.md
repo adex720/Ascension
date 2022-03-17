@@ -2,7 +2,7 @@
 
 ## Table of content:
 
-1. [Overall thoughs on ascension by Adex](#thoughts)
+1. [Overall thoughs on ascension](#thoughts)
 1. [Reasons to not add ascensions](#no-implement)
     1. [From the perspective of high prestige player](#no-implement-high)
     1. [From the perspective of middle prestige player](#no-implement-middle)
@@ -17,6 +17,7 @@
     1. [From the perspective of low prestige player](#option-b-low)
 1. [Ideas for ascension option A](#ideas-a)
 1. [Ideas for ascension option B](#ideas-b)
+1. [Opinions about ascension by several people](#opinion)
 
 ## Overall thoughts on ascension <a name="thoughts"></a>
 
@@ -59,3 +60,7 @@ The most obivious one is that only small portion of the playerbase is going to r
 
 
 ## Ideas for ascension option B <a name="ideas-b"></a>
+
+
+## Opinions from several people <a name="opinion"></a>
+### ADEX##2242 (Prestige 379) <a name="opinion-adex"></a>:
