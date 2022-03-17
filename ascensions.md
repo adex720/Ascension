@@ -69,7 +69,7 @@ The bot has done well for years even without feature like this, and is popular a
 
 ### From the perspective of high prestige player <a name="option-b-high"></a>
     
-### rom the perspective of middle prestige player <a name="option-b-middle"></a>
+### From the perspective of middle prestige player <a name="option-b-middle"></a>
     
 ### From the perspective of low prestige player <a name="option-b-low"></a>
 
