@@ -20,9 +20,11 @@
 
 ## Overall thoughts on ascension <a name="thoughts"></a>
 
-
+Currently the game already has two forms of progression: rebirths and prestiges.
 
 ## Reasons to not add ascensions <a name="no-implement"></a>
+
+
 
 ### From the perspective of high prestige player <a name="no-implement-high"></a>
 ### From the perspective of middle prestige player <a name="no-implement-middle"></a>
