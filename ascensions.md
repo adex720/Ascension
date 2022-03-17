@@ -20,14 +20,19 @@
 
 ## Overall thoughts on ascension <a name="thoughts"></a>
 
-Currently the game already has two forms of progression: rebirths and prestiges.
+Currently the game already has two forms of progression: rebirths and prestiges. I haven't had long term problems with low motivation yet am at almost prestige 400. Some altrenatives would be good, but they can be other forms as "enchaned prestige". A good example of this is the recent feature farming.
+
+One of the most important things is that it shouldn't be mandatory. With a hundred players past prestige 300, it is almsot impossible to get all of them feel like it's worth it. At least if the ascensions are wanted to be kept in a stage where calling them balanced is understandable.
+Another point is that if implemented well many old players can get motivation back.
 
 ## Reasons to not add ascensions <a name="no-implement"></a>
 
-
+The most obivious one is that only small portion of the playerbase is going to reach it. Is it really worth it spend multiple months on a feature which only the most hardcore players will reach? The bot has done well for years even without feature like this, and is popular among newbies and older players.
 
 ### From the perspective of high prestige player <a name="no-implement-high"></a>
+
 ### From the perspective of middle prestige player <a name="no-implement-middle"></a>
+
 ### From the perspective of low prestige player <a name="no-implement-low"></a>
 
 
