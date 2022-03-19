@@ -47,10 +47,12 @@ This doesn't contain opnions from everyone and the result can be different that 
 
 We assume that you have already thought a lot about making it worth, so this mostly tries to includ things that multiple people find important and suggestions how to make it good. It is still very likely that bunch of stuff listed here is alreasy thought by you.
 
+To keep leaderboards fair, ascensions shouldn't affect fishing or farming.
+
 ## Reasons to not add ascensions <a name="no-implement"></a>
 
-The most obivious one is that only small portion of the playerbase is going to reach it. Is it really worth it spend multiple months on a feature which only the most hardcore players will reach? Would it be more effective to just focus on smaller updates or features affecting majority of active people like fishing?
-The bot has done well for years even without feature like this, and is popular among newbies and older players.
+- Only small portion of the playerbase is going to reach it. Is it really worth it spend multiple months on a feature which only the most hardcore players will reach? Would it be more effective to just focus on smaller updates or features affecting majority of active people like fishing?
+- The bot has done well for years even without feature like this, and is popular among newbies and older players.
 
 ### From the perspective of high prestige player <a name="no-implement-high"></a>
 - Progress can be feel like lost if a prestige 1k player will start with similar stats as one who just met the requirements.
@@ -63,26 +65,36 @@ The bot has done well for years even without feature like this, and is popular a
 - Only few people who play will reach ascensions. Time can be spent on features that affect everyone.
 
 ## Reasons to add ascension concept A <a name="concept-a"></a>
-Concept A is less work than B. It is also easier to understand.
-Ascensions will become significantly easier the more you have them matching the way of rebiths and prestiges.
+- Concept A is less work than B. It is also easier to understand.
+- Ascensions will become significantly easier the more you have them matching the way of rebiths and prestiges.
+- With a large number of heroes, players will have different buffs making them feel unique.
+- This concept is way easier and faster to implement than B.
 
 ### From the perspective of high prestige player <a name="concept-a-high"></a>
 - High prestige players will get op buffs.
 - The benifit of having large prestige count boosts immiaditely.
 
 ### From the perspective of middle prestige player <a name="concept-a-middle"></a>
+- The first opportunity to prestgie happens around the point where the prestigeshop gets repeating.
 
 ### From the perspective of low prestige player <a name="concept-a-low"></a>
+- The higher requirement of prestiges makes the feature feel more rare and the feeling of reaching it will be very rewarding.
 
 
 ## Reasons to add ascension concept B <a name="concept-b"></a>
-The first ascension is reached earlier making more players affected by it. This seems to be less repeative making the bot less repeative too.
-Ascensions won't become fast.
+- The first ascension is reached earlier making more players affected by it.
+- This concept is less repeative making the bot less repeative too.
+- Ascensions won't (at least very quickly) become very fast.
+- If a player regrets ascending he can just go back to the original dimension.
+- All players play the new ascensions the same way.
+- Progres on the first ascension cntinues over time so the very late prestigeshop perks make still sense existing.
+- The concept feels big and adds depth to the game.
 
 ### From the perspective of high prestige player <a name="concept-b-high"></a>
 - Players don't lose anything from ascending at higher prestiges in the long run.
     
 ### From the perspective of middle prestige player <a name="concept-b-middle"></a>
+- Middle prestige players don't have worse buffs than very high prestige players.
     
 ### From the perspective of low prestige player <a name="concept-b-low"></a>
 - The feature is way easier to get into.
@@ -91,9 +103,25 @@ Ascensions won't become fast.
 ## Opinions from several people <a name="opinion"></a>
 
 ### ADEX##2242 (Prestige 379) <a name="opinion-adex"></a>:
-I haven't had long term problems with low motivation yet am at almost prestige 400. Some altrenatives would be good, but they can be other forms as "enchaned prestige".
+When I first heard about the idea of ascensions I was strictly againts them. I didn't agree with the original reasons why it needs to be added.
+The updates on prestigeshop have made the game less boring and a new perk or new levels for early maxable perks such as greed would make it less repeative. Greed could continue having change for double shards from hunting.
+The first levels shall be relatively cheap. The maximum chance for this doesn't need to be 100%. It could be as low as 30% but would still make the shop significantly less repeative when the buff per token ratio is chosen well.
+
+I haven't had long term problems with low motivation yet am at almost prestige 400. Less repeatitivy would be good, but it can be other forms as "enchaned prestige".
 I personally get more motivation from frequent smaller updates then from seldom big changes. Farming has given me a lot motivation, mostly from being high on the leaderboard, but also at the start, from exploring the new mechanics.
-I hope that if ascensions will become a thing, they would have new things to explore and sample with.
+I hope that if ascensions will become a thing, they would have new things to explore and sample with. From this point of view, concept B seems better.
+
+If ascensions were added what I want to see is them making a significant cahange to the gameplay after.
+Unique heroes from concept A make the gamepaly different, but it will take time until you reach your second hero. This will result in the gameplay being the same for the whole ascension, as of on concept B you can switch between ascensions.
+The concept of heroes is easy to understand and each palyer will relatively easy form their own opinion whether is it worth or not. This way the players already know well what will follow up from ascension and that way there shouldn't be high amount of people compaining that they want to undo the ascension. 
+
+The heroes are a good idea since they're very simple, but still open for countless opportunities. There are ideas listed for heroes [here](#ideas-a), but the most important ones by what I think are more prestige tokens and __...__. Getting more prestige tokens makes pregression feel fast.
+
+The concept B really shines on being less repeative. With custom prestigemaster rawards and the ability to switch between dimesnion, players will find differences after ascensioning.
+Concept B also solves the issue of people thinking ascensions not being worth it after ascensioning: You can always go back the the original dimension.
+Implemention concept B will require a lot of thought and balancing, and therefore take more time to implement.
+
+My personal votes go 60% for no ascensions, 30% for concept A and 10% for concept B.
 
 ### luigiboy72#2245 (Prestige 66) <a name="opinion-luigi"></a>:
 I think the bot needs more forms of progression, because it can be boring when all you can do is get more prestiges, which would be repetitive. However, I don't really like concept A (even with the prospect of heroes) because it doesn't seem like a good trade-off for me to reset all your prestiges just for a buff, even if the buff is really good. Concept A still has that repetition factor as well, so while it would help make the game more interesting, it wouldn't be for long.
@@ -104,10 +132,10 @@ Concept B seems like a more interesting idea, since each dimension has its own s
 ## Ideas for ascension concept A <a name="ideas-a"></a>
 
 Ideas for hero abilities:
-- **More prestige coins**: It could be either a multiplier or an addition. This would make the late shop features more accessible and make it feel different when you get this hero.
+- **More prestige tokens**: It could be either a multiplier or an addition. This would make the late shop features more accessible and make it feel more pregressed.
 - **Credits**: If want to keep credits donor exclusive don't add this
 - **Time traveller 2**: More chance for time traveller
-- **More crystals**: Self explanatory
+- **More crystals**: Get crystals more often
 
 ## Ideas for ascension concept B <a name="ideas-b"></a>
 
