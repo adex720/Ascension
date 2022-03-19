@@ -18,6 +18,7 @@
     1. [From the perspective of low prestige player](#concept-b-low)
 1. [Opinions about ascension by several people](#opinion)
     1. [ADEX#2242](#opinion-adex)
+    2. [luigiboy72#2245](#opinion-luigi)
 1. [Ideas for ascension concept A](#ideas-a)
 1. [Ideas for ascension concept B](#ideas-b)
 
