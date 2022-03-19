@@ -94,6 +94,10 @@ I haven't had long term problems with low motivation yet am at almost prestige 4
 I personally get more motivation from frequent smaller updates then from seldom big changes. Farming has given me a lot motivation, mostly from being high on the leaderboard, but also at the start, from exploring the new mechanics.
 I hope that if ascensions will become a thing, they would have new things to explore and sample with.
 
+### luigiboy72#2245 (Prestige 66) <a name="opinion-luigi"></a>:
+I think the bot needs more forms of progression, because it can be boring when all you can do is get more prestiges, which would be repetitive. However, I don't really like concept A (even with the prospect of heroes) because it doesn't seem like a good trade-off for me to reset all your prestiges just for a buff, even if the buff is really good. Concept A still has that repetition factor as well, so while it would help make the game more interesting, it wouldn't be for long.
+Concept B seems like a more interesting idea, since each dimension has its own statistics and own prestige master rewards, while you don't face any resets in previous dimensions. I feel like there's also more scope within concept B, for example each dimension having its own rules maybe (like one dimension's pets could be buffed, another dimension could have something like the Binding effect, etc.) and I feel like that would make the bot much more interesting, as it adds more things to explore.
+
 
 
 ## Ideas for ascension concept A <a name="ideas-a"></a>
