@@ -12,7 +12,7 @@
     1. [From the perspective of high prestige player](#ascension-high)
     1. [From the perspective of middle prestige player](#ascension-middle)
     1. [From the perspective of low prestige player](#ascension-low)
-1. [Reasons to add dimensions (Concept B)](#dimension-b)
+1. [Reasons to add dimensions (Concept B)](#dimension)
     1. [From the perspective of high prestige player](#dimension-high)
     1. [From the perspective of middle prestige player](#dimension-middle)
     1. [From the perspective of low prestige player](#dimension-low)
