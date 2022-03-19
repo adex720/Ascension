@@ -22,6 +22,7 @@
     1. [Leo66Gao#1854](#opinion-leo66gao)
     1. [Ʀƛ〆Slitherio†⁴⁰⁴#7237](#opinion-slitherio)
     1. [Lenny#1224](#opinion-lenny)
+    1. [Very short feedback from several players](#opinion-short)
 1. [Ideas for ascensions](#ideas-ascension)
 1. [Ideas for dimensions](#ideas-dimension)
 
@@ -126,6 +127,7 @@ Concept B also solves the issue of people thinking ascensions not being worth it
 Implemention concept B will require a lot of thought and balancing, and therefore take more time to implement.
 
 Both concepts handle guilds well, but I like more the way of concept A. This no longer merges top players and high guild buffs, allowing the top players to choose from a much larger set with still having maximum guild buff.
+And not only that, but lower prestige palyers from ascension 0 would get the change on being on top guilds and having significant impact in the guild buff.
 
 My personal votes go 60% for no new forms, 30% for ascensions and 10% for dimensions.
 
@@ -140,13 +142,13 @@ For heroes be worth they would need to be very good, for example x2 sell price a
 For dimensions, it will be fun when there are many of them, but it can easily get too confusing.
 Overall I don't think ascensions or dimensions are worth adding.
 
-### Ʀƛ〆Slitherio†⁴⁰⁴#7237 (Prestige 156) <a name="opinion-slitherio"><a/>
+### Ʀƛ〆Slitherio†⁴⁰⁴#7237 (Prestige 156) <a name="opinion-slitherio"></a>
     
 I think that a new form of progression should be added. The only flaw I can think of is that it would change the game too much.
 Ascensions seems much easier than dimensions. Ascensions shouldn't become too easy however. Neither should dimenenions be too challenging.
 I prefer ascensions over dimensions.
 
-### Lenny#1224 (Presite 421) <a name="opinion-lenny"><a/>
+### Lenny#1224 (Presite 421) <a name="opinion-lenny"></a>
 
 No reason to not. (implementing a new form of progression.)
 
@@ -161,6 +163,11 @@ Last one I can think of right now is:
 Concept B could bring a wide variety of options. I.e: allow players to go higher rebirths, creating this new way to prestige. We could let rebirths go up to 50 or even 100 and every 25 rbs after rb25 will add 10 rbs on the next prestige.
 
 I like Concept A the most.
+    
+### Short feedback from players <a name="opinion-short"></a>
+
+#0006 (Prestige 441): "New update tbh I don't like both off them lol."
+
 
 ## Ideas for ascension concept A <a name="ideas-ascension"></a>
 
