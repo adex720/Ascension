@@ -18,7 +18,8 @@
     1. [From the perspective of low prestige player](#concept-b-low)
 1. [Opinions about ascension by several people](#opinion)
     1. [ADEX#2242](#opinion-adex)
-    2. [luigiboy72#2245](#opinion-luigi)
+    1. [luigiboy72#2245](#opinion-luigi)
+    1. [Leo66Gao#1854](#opinion-leo66gao)
 1. [Ideas for ascension concept A](#ideas-a)
 1. [Ideas for ascension concept B](#ideas-b)
 
@@ -43,11 +44,12 @@ One of the most important things is that it shouldn't be mandatory. With a hundr
 People can also feel that their freedom is limit if they are forced to ascend to stay a top player or on the leaderboards.
 You must still take in count that if implemented well, many old players can get motivation back.
 
-This doesn't contain opnions from everyone and the result can be different that what people not in this think.
-
 We assume that you have already thought a lot about making it worth, so this mostly tries to includ things that multiple people find important and suggestions how to make it good. It is still very likely that bunch of stuff listed here is alreasy thought by you.
 
 To keep leaderboards fair, ascensions shouldn't affect fishing or farming.
+
+This doesn't contain opnions from everyone and the result can be different that what people not in this think.
+The people whose opinion is included here are not chosen upon their opinion, it's simply people who said yes when they were asked do they want to give their opinion.
 
 ## Reasons to not add ascensions <a name="no-implement"></a>
 
@@ -127,7 +129,12 @@ My personal votes go 60% for no ascensions, 30% for concept A and 10% for concep
 I think the bot needs more forms of progression, because it can be boring when all you can do is get more prestiges, which would be repetitive. However, I don't really like concept A (even with the prospect of heroes) because it doesn't seem like a good trade-off for me to reset all your prestiges just for a buff, even if the buff is really good. Concept A still has that repetition factor as well, so while it would help make the game more interesting, it wouldn't be for long.
 Concept B seems like a more interesting idea, since each dimension has its own statistics and own prestige master rewards, while you don't face any resets in previous dimensions. I feel like there's also more scope within concept B, for example each dimension having its own rules maybe (like one dimension's pets could be buffed, another dimension could have something like the Binding effect, etc.) and I feel like that would make the bot much more interesting, as it adds more things to explore.
 
+### Leo66Gao#1854 (Prestige 57) <a name="opinion-leo66gao"></a>
 
+I don't think adding ascensions is good idea. Especially prestige 300 is very hard to reach and a reward of one hero feels too small.
+For heroes be worth they would need to be very good, for example x2 sell price at prestige 300.
+For dimensions, it will be fun when there are many of them, but it can easily get too confusing.
+Overall I don't think ascensions are worth adding.
 
 ## Ideas for ascension concept A <a name="ideas-a"></a>
 
