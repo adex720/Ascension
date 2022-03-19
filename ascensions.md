@@ -150,7 +150,17 @@ I prefer ascensions over dimensions.
 
 No reason to not. (implementing a new form of progression.)
 
+Thing is I am very top heavy towards the concept of ascension because it can be extremely helpful to higher prestige players have more motivation to play. Some players 500pr+ are or have quit because there are no form of high level prestige rewards other than getting another token every 90pms.
 
+If this concept was added, we could make the "heros" buffs* be like 1.5x sell and mining + .5x per every 500 Prestiges after pr 250
+Another could be:
+1.2x more shards per hunt + .1x per 750 prs after pr 1000
+Last one I can think of right now is:
+.5% more chance of gold at pr 1k + .1% per 500 prs
+
+This could bring a wide variety of options. I.e: allow players to go higher rebirths, creating this new way to prestige. We could let rebirths go up to 50 or even 100 and every 25 rbs after rb25 will add 10 rbs on the next prestige.
+
+I like it the most.
 
 ## Ideas for ascension concept A <a name="ideas-ascension"></a>
 
