@@ -166,7 +166,7 @@ I like Concept A the most.
     
 ### Short feedback from players <a name="opinion-short"></a>
 
-Dragon࿐Warrior™#0006 (Prestige 441): "New update tbh I don't like both off them lol."
+**Dragon࿐Warrior™#0006 (Prestige 441):** "New update tbh I don't like both off them lol."
 
 
 ## Ideas for ascension concept A <a name="ideas-ascension"></a>
