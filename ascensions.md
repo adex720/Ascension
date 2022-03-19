@@ -21,6 +21,7 @@
     1. [luigiboy72#2245](#opinion-luigi)
     1. [Leo66Gao#1854](#opinion-leo66gao)
     1. [Ʀƛ〆Slitherio†⁴⁰⁴#7237](#opinion-slitherio)
+    1. [Lenny#1224](#opinion-lenny)
 1. [Ideas for ascensions](#ideas-ascension)
 1. [Ideas for dimensions](#ideas-dimension)
 
@@ -144,6 +145,12 @@ Overall I don't think ascensions or dimensions are worth adding.
 I think that a new form of progression should be added. The only flaw I can think of is that it would change the game too much.
 Ascensions seems much easier than dimensions. Ascensions shouldn't become too easy however. Neither should dimenenions be too challenging.
 I prefer ascensions over dimensions.
+
+### Lenny#1224 (Presite 421) <a name="opinion-leny"><a/>
+
+No reason to not. (implementing a new form of progression.)
+
+
 
 ## Ideas for ascension concept A <a name="ideas-ascension"></a>
 
