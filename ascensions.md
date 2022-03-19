@@ -146,7 +146,7 @@ I think that a new form of progression should be added. The only flaw I can thin
 Ascensions seems much easier than dimensions. Ascensions shouldn't become too easy however. Neither should dimenenions be too challenging.
 I prefer ascensions over dimensions.
 
-### Lenny#1224 (Presite 421) <a name="opinion-leny"><a/>
+### Lenny#1224 (Presite 421) <a name="opinion-lenny"><a/>
 
 No reason to not. (implementing a new form of progression.)
 
