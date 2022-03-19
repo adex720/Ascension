@@ -20,6 +20,7 @@
     1. [ADEX#2242](#opinion-adex)
     1. [luigiboy72#2245](#opinion-luigi)
     1. [Leo66Gao#1854](#opinion-leo66gao)
+    1. [#7237](#opinion-slitherio)
 1. [Ideas for ascensions](#ideas-ascension)
 1. [Ideas for dimensions](#ideas-dimension)
 
@@ -138,6 +139,12 @@ I don't think adding new form of progression is good idea. Especially prestige 3
 For heroes be worth they would need to be very good, for example x2 sell price at prestige 300.
 For dimensions, it will be fun when there are many of them, but it can easily get too confusing.
 Overall I don't think ascensions or dimensions are worth adding.
+
+### SLitherio#7237 (Prestige 156) <a name="opinion-slitherio"><a/>
+    
+I think that a new form of progression should be added. The only flaw I can think of is that it would change the game too much.
+Ascensions seems much easier than dimensions. Ascensions shouldn't become too easy however. Neither should dimenenions be too challenging.
+I prefer ascensions over dimensions.
 
 ## Ideas for ascension concept A <a name="ideas-ascension"></a>
 
