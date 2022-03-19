@@ -117,11 +117,14 @@ If ascensions were added what I want to see is them making a significant cahange
 Unique heroes from concept A make the gamepaly different, but it will take time until you reach your second hero. This will result in the gameplay being the same for the whole ascension, as of on concept B you can switch between ascensions.
 The concept of heroes is easy to understand and each palyer will relatively easy form their own opinion whether is it worth or not. This way the players already know well what will follow up from ascension and that way there shouldn't be high amount of people compaining that they want to undo the ascension. 
 
-The heroes are a good idea since they're very simple, but still open for countless opportunities. There are ideas listed for heroes [here](#ideas-a), but the most important ones by what I think are more prestige tokens and __...__. Getting more prestige tokens makes pregression feel fast.
+The heroes are a good idea since they're very simple, but still open for countless opportunities. There are ideas listed for heroes [here](#ideas-a), but the most important ones by what I think are more prestige tokens and __...__. Getting more prestige tokens makes progression feel fast and lets palyers to try out the later upgrades.
+A hero with only a multiplier one stat like sel price or mining speed is not a good idea, since that wouldn't make the gameplay less repeative.
 
 The concept B really shines on being less repeative. With custom prestigemaster rawards and the ability to switch between dimesnion, players will find differences after ascensioning.
 Concept B also solves the issue of people thinking ascensions not being worth it after ascensioning: You can always go back the the original dimension.
 Implemention concept B will require a lot of thought and balancing, and therefore take more time to implement.
+
+Both concepts handle guilds well, but I like more the way of concept A. This no longer merges top players and high guild buffs, allowing the top players to choose from a much larger set with still having maximum guild buff.
 
 My personal votes go 60% for no ascensions, 30% for concept A and 10% for concept B.
 
@@ -143,6 +146,7 @@ Ideas for hero abilities:
 - **Credits**: If want to keep credits donor exclusive don't add this
 - **Time traveller 2**: More chance for time traveller
 - **More crystals**: Get crystals more often
+- **Little rework on pet cahnces**: Either mythical pets could get little more common or just overall reduce change of not getting pet.
 
 ## Ideas for ascension concept B <a name="ideas-b"></a>
 
