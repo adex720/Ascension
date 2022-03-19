@@ -176,7 +176,7 @@ Ideas for hero abilities:
 - **Credits**: If want to keep credits donor exclusive don't add this
 - **Time traveller 2**: More chance for time traveller
 - **More crystals**: Get crystals more often
-- **Little rework on pet cahnces**: Either mythical pets could get little more common or just overall reduce change of not getting pet.
+- **Little rework on pet chances**: Either mythical pets could get little more common or just overall reduce change of not getting pet.
 
 ## Ideas for ascension concept B <a name="ideas-dimension"></a>
 
