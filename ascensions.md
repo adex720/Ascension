@@ -22,7 +22,7 @@
     1. [Leo66Gao#1854](#opinion-leo66gao)
     1. [Ʀƛ〆Slitherio†⁴⁰⁴#7237](#opinion-slitherio)
     1. [Lenny#1224](#opinion-lenny)
-    1. [Very short feedback from several players](#opinion-short)
+    1. [Short feedback from several players](#opinion-short)
 1. [Ideas for ascensions](#ideas-ascension)
 1. [Ideas for dimensions](#ideas-dimension)
 
@@ -167,6 +167,7 @@ I like Concept A the most.
 ### Short feedback from players <a name="opinion-short"></a>
 
 **Dragon࿐Warrior™#0006 (Prestige 441):** "New update tbh I don't like both off them lol."
+
 **Markiangdasher7#9313 (Prestige 454):** "All I can say about this is just I don't like it really. Dude concept is literally bad💀"
 
 ## Ideas for ascension concept A <a name="ideas-ascension"></a>
