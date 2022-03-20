@@ -22,6 +22,7 @@
     1. [Leo66Gao#1854](#opinion-leo66gao)
     1. [Ʀƛ〆Slitherio†⁴⁰⁴#7237](#opinion-slitherio)
     1. [Lenny#1224](#opinion-lenny)
+    1. [Miroslav#9009](#opinion-miroslav)
     1. [Short feedback from several players](#opinion-short)
 1. [Ideas for ascensions](#ideas-ascension)
 1. [Ideas for dimensions](#ideas-dimension)
@@ -165,6 +166,17 @@ Last one I can think of right now is:
 Concept B could bring a wide variety of options. I.e: allow players to go higher rebirths, creating this new way to prestige. We could let rebirths go up to 50 or even 100 and every 25 rbs after rb25 will add 10 rbs on the next prestige.
 
 I like Concept A the most.
+
+### Miroslav #9009 (Prestige 2728) <a name="opinion-miroslav"></a>
+
+What are the reasons to not implement new forms of progression?<p></p>
+None
+
+Reasons for ascension:<p></p>
+
+
+
+Reasons for dimensions:<p></p>
     
 ### Short feedback from players <a name="opinion-short"></a>
 
@@ -191,6 +203,7 @@ Ideas for hero abilities:
 - Leo66Gao#1854
 - luigiboy72#2245
 - Markiangdaher7#9313
+- Miroslav#9009
 - Ʀƛ〆Slitherio†⁴⁰⁴#7237
 
 
