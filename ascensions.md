@@ -173,10 +173,13 @@ What are the reasons to not implement new forms of progression?<p></p>
 None
 
 Reasons for ascension:<p></p>
-
-
+Because it adds a new form of progression that is way more fun than the current one, will at least give a lot of extra things to do. Of course this will get boring again eventually, but I don't think it's going to be really soon like it is right now. Like I'm already at the point where I'm kinda just being forced to play by Dex from time to time(:fearful:) Guild bosses is my only motivation to decide to even hop on my discord channel and play. With this even if I start from 0 again it's gonna become really fast eventually and I can easily surpass my most prestiges before first ascension and can probably get a really high rb/day eventually assuming I have like all heroes maxed, because that is definetely going to be a goal of mine when heroes release. To get them all maxed, because that is definetely going to be op as hell.
 
 Reasons for dimensions:<p></p>
+It's pretty much the same thing as concept A, except you don't have to "lose" your prestiges.
+You have an infinite grinding type of thing, but as I mentioned in concept A is eventually gonna get boring. It's probably going to end up like farming where you have to farm for like 2 months to get 1 upgrade that will boost whatever you farmed for by like 5% and that's. And typing this out right now just makes me want A, because I'm not really a big fan of farming, because of high prestige so it doesn't really affect me that much. I did notice how OP it is when I was using my alt though, so I guess it's balanced?
+
+Should be added 100%. Like Wesley mentioned "i'm tired of prestiging 20 times a day in an incredibly boring gameplay loop" Which funnily enough was exactly what was happening when he said that, at least for me. I said was, because I don't even have the motivation to do 100 rb/day anymore, got boring real fast. I'm just hoping it gets added as soon as possible, because I know he also has a lot of other updates to do and some are a must like slash commands and hopefully he adds buttons with it too otherwise that's gonna suck a lot. Legendary pet re-balance, merchant thing re-balance, some boost he was talking about, fishing update and now Ascension since that's easily winning the poll.
     
 ### Short feedback from players <a name="opinion-short"></a>
 
