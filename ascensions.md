@@ -123,8 +123,8 @@ The heroes are a good idea since they're very simple, but still open for countle
 A hero with only a multiplier one stat like sel price or mining speed is not a good idea, since that wouldn't make the gameplay less repeative.
 
 Dimensions really shines on being less repeative. With custom prestigemaster rewards and the ability to switch between dimesnion, players will find differences and feel it less repeatitive.
-Concept B also solves the issue of people thinking ascensions not being worth it after ascensioning: You can always go back the the original dimension.
-Implemention concept B will require a lot of thought and balancing, and therefore take more time to implement.
+Dimsensions also solve the issue of people thinking ascensions not being worth it after ascensioning: You can always go back the the original dimension.
+Implemention dimensions will require a lot of thought and balancing, and therefore take more time to implement.
 
 Both concepts handle guilds well, but I like more the way of concept A. This no longer merges top players and high guild buffs, allowing the top players to choose from a much larger set with still having maximum guild buff.
 And not only that, but lower prestige palyers from ascension 0 would get the change on being on top guilds and having significant impact in the guild buff.
@@ -167,7 +167,7 @@ I like Concept A the most.
 ### Short feedback from players <a name="opinion-short"></a>
 
 **Dragon࿐Warrior™#0006 (Prestige 441):** "New update tbh I don't like both off them lol."
-
+**Markiangdasher7#9313 (Prestige 454):** "All I can say about this is just I don't like it really. Dude concept is literally bad💀"
 
 ## Ideas for ascension concept A <a name="ideas-ascension"></a>
 
