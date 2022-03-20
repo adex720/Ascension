@@ -25,6 +25,8 @@
     1. [Short feedback from several players](#opinion-short)
 1. [Ideas for ascensions](#ideas-ascension)
 1. [Ideas for dimensions](#ideas-dimension)
+1. [List of contributors](#contributors)
+    1. [Special thanks](#special-thanks)
 
 ## Overall thoughts on ascension <a name="about"></a>
 
@@ -182,5 +184,17 @@ Ideas for hero abilities:
 ## Ideas for ascension concept B <a name="ideas-dimension"></a>
 
 
+## Contributors <a name="contributors"></a>
+- ADEX#2242
+- Dragon࿐Warrior™#0006
+- Lenny#1224
+- Leo66Gao#1854
+- luigiboy72#2245
+- Markiangdaher7#9313
+- Ʀƛ〆Slitherio†⁴⁰⁴#7237
+
+
+### Special thanks <a name="speical-thanks"></a>
+- **Wesley#6216** for creating the bot
 
 [Video explaining this](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
