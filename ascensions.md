@@ -194,7 +194,7 @@ Ideas for hero abilities:
 - Ʀƛ〆Slitherio†⁴⁰⁴#7237
 
 
-### Special thanks <a name="speical-thanks"></a>
+### Special thanks <a name="special-thanks"></a>
 - **Wesley#6216** for creating the bot
 
 [Video explaining this](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
