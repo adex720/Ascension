@@ -195,10 +195,13 @@ What are the reasons to not implement new forms of progression?<p></p>
 None
 
 Reasons for ascension:<p></p>
-
+Because it's way simpler than concept B and the concept can be improved over time.
 
 Reasons for dimensions:<p></p>
+It would be a fun idea and all, but I feel like it would make the bot more rpg or whatever genre that is, and make it less "idle"..
 
+Cool if concept A, meh if concept B...
+my overall opinion is positive about ascension no matter which concept (current or new) is added
 
 ### Short feedback from players <a name="opinion-short"></a>
 
