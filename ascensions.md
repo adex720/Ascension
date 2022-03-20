@@ -209,7 +209,7 @@ my overall opinion is positive about ascension no matter which concept (current 
 
 **Markiangdasher7#9313 (Prestige 454):** "All I can say about this is just I don't like it really. Dude concept is literally bad💀"
 
-## Ideas for ascension concept A <a name="ideas-ascension"></a>
+## Ideas for ascensions <a name="ideas-ascension"></a>
 
 Ideas for hero abilities:
 - **More prestige tokens**: It could be either a multiplier or an addition. This would make the late shop features more accessible and make it feel more pregressed.
@@ -218,7 +218,7 @@ Ideas for hero abilities:
 - **More crystals**: Get crystals more often
 - **Little rework on pet chances**: Either mythical pets could get little more common or just overall reduce change of not getting pet.
 
-## Ideas for ascension concept B <a name="ideas-dimension"></a>
+## Ideas for dimensions <a name="ideas-dimension"></a>
 
 
 ## Contributors <a name="contributors"></a>
