@@ -40,30 +40,30 @@ First group contains arguments for which style to choose or to not implement it 
 
 The second group contains opinions from several players each player having their own feedback.
 
-The third group has suggestion separated for consepts A and B.
+The third group has suggestion separated for concepts A and B.
 
 
 
 ## Notes<a name="notes"></a>
 
-One of the most important thing is that it shouldn't be mandatory. With a hundred players past prestige 250, it is almsot impossible to get all of them feel like it's worth it. At least if the they are wanted to be kept in a stage where calling them balanced.
+One of the most important things is that it shouldn't be mandatory. With a hundred players past prestige 250, it is almsot impossible to get all of them feel like it's worth it. At least if the they are wanted to be kept in a stage where calling them balanced.
 People can also feel that their freedom is limit if they are forced to ascend to stay a top player or on the leaderboards.
 You must still take in count that if implemented well, many old players can get motivation back.
 
-We assume that you have already thought a lot about making it worth, so this mostly tries to includ things that multiple people find important and suggestions how to make it good. It is still very likely that bunch of stuff listed here is alreasy thought by you.
+We assume that you have already thought a lot about making it worth, so this mostly tries to include things that multiple people find important and suggestions how to make it good. It is still very likely that bunch of stuff listed here is alreasy thought by you.
 
 To keep leaderboards fair and fun, this shouldn't affect fishing or farming.
 
-This doesn't contain opnions from everyone and the result can be different that what people not in this think.
+This doesn't contain opinions from everyone and the result can be different that what people not in this think.
 The people whose opinion is included here are not chosen upon their opinion, it's simply people who said yes when they were asked do they want to give their opinion.
 
 ## Reasons to not add new form of progression <a name="no-implement"></a>
 
-- Only small portion of the playerbase is going to reach it. Is it really worth it spend multiple months on a feature which only the most hardcore players will reach? Would it be more effective to just focus on smaller updates or features affecting majority of active people like fishing?
+- Only small portion of the playerbase is going to reach it. Is it really worth it, spending multiple months on a feature which only the most hardcore players will reach? Would it be more effective to just focus on smaller updates or features affecting majority of active people like fishing?
 - The bot has done well for years even without feature like this, and is popular among newbies and older players.
 
 ### From the perspective of high prestige player <a name="no-implement-high"></a>
-- Progress can be feel like lost if a prestige 1k player will start with similar stats as one who just met the requirements.
+- Progress can be felt like lost if a prestige 1k player will start with similar stats as one who just met the requirements.
 - The rewards for going for very high prestiges would be so good that people would just continue grinding for better rewards instead of ascending.
 
 ### From the perspective of middle prestige player <a name="no-implement-middle"></a>
@@ -74,28 +74,28 @@ The people whose opinion is included here are not chosen upon their opinion, it'
 
 ## Reasons to add ascension (Concept A) <a name="ascension"></a>
 - Concept A is less work than B. It is also easier to understand.
-- Ascensions will become significantly easier the more you have them matching the way of rebiths and prestiges.
+- Ascensions will become significantly easier the more you have them matching the way of rebirths and prestiges.
 - With a large number of heroes, players will have different buffs making them feel unique.
 - This concept is way easier and faster to implement than B.
 
 ### From the perspective of high prestige player <a name="ascension-high"></a>
 - High prestige players will get op buffs.
-- The benifit of having large prestige count boosts immiaditely.
+- The benefit of having large prestige count boosts immediately.
 
 ### From the perspective of middle prestige player <a name="ascension-middle"></a>
-- The first opportunity to prestgie happens around the point where the prestigeshop gets repeating.
+- The first opportunity to prestige happens around the point where the prestigeshop gets repeating.
 
 ### From the perspective of low prestige player <a name="ascension-low"></a>
-- The higher requirement of prestiges makes the feature feel more rare and the feeling of reaching it will be very rewarding.
+- The higher requirement of prestiges makes the feature feel rarer and the feeling of reaching it will be very rewarding.
 
 
 ## Reasons to add dimensions (Concept B) <a name="dimension"></a>
 - The first ascension is reached earlier making more players affected by it.
-- This concept is less repeative making the bot less repeative too.
+- This concept is less repetitive making the bot less repetitive too.
 - Ascensions won't (at least very quickly) become very fast.
 - If a player regrets ascending he can just go back to the original dimension.
 - All players play the new ascensions the same way.
-- Progres on the first ascension cntinues over time so the very late prestigeshop perks make still sense existing.
+- Progress on the first ascension continues over time so the very late prestigeshop perks make still sense existing.
 - The concept feels big and adds depth to the game.
 
 ### From the perspective of high prestige player <a name="dimension-high"></a>
@@ -111,27 +111,27 @@ The people whose opinion is included here are not chosen upon their opinion, it'
 ## Opinions from several people <a name="opinion"></a>
 
 ### ADEX##2242 (Prestige 379) <a name="opinion-adex"></a>:
-When I first heard about the idea of ascensions I was strictly againts them. I didn't agree with the original reasons why it needs to be added.
+When I first heard about the idea of ascensions I was strictly against them. I didn't agree with the original reasons why it needs to be added.
 The updates on prestigeshop have made the game less boring and a new perk or new levels for early maxable perks such as greed would make it less repeative. Greed could continue having change for double shards from hunting.
 The first levels shall be relatively cheap. The maximum chance for this doesn't need to be 100%. It could be as low as 30% but would still make the shop significantly less repeative when the buff per token ratio is chosen well.
 
-I haven't had long term problems with low motivation yet am at almost prestige 400. Less repeatitivy would be good, but it can be other forms as "enchaned prestige".
+I haven't had long term problems with low motivation yet am at almost prestige 400. Less repetitive would be good, but it can be other forms as "enchaned prestige".
 I personally get more motivation from frequent smaller updates then from seldom big changes. Farming has given me a lot motivation, mostly from being high on the leaderboard, but also at the start, from exploring the new mechanics. A smaller update could've done the same too.
 I hope that if ascensions will become a thing, they would have new things to explore and sample with. Dimensions should also feel like something new even after you have reached multiple of them.
 
-If a new form of progression was added what I want to see is it making a significant cahange to the gameplay after.
-Unique heroes from ascensions make the gamepaly different, but it will take time until you reach your second hero. This will result in the gameplay being the same for the whole ascension, as of on concept B you can switch between dimensions.
-The concept of heroes is easy to understand and each palyer will relatively easy form their own opinion whether is it worth or not. This way the players already know well what will follow up from ascension and that way there shouldn't be high amount of people compaining that they want to undo the ascension. 
+If a new form of progression was added what I want to see is it making a significant change to the gameplay after.
+Unique heroes from ascensions make the gameplay different, but it will take time until you reach your second hero. This will result in the gameplay being the same for the whole ascension, as of on concept B you can switch between dimensions.
+The concept of heroes is easy to understand and each paler will relatively easy form their own opinion whether is it worth or not. This way the players already know well what will follow up from ascension and that way there shouldn't be high amount of people compaining that they want to undo the ascension. 
 
 The heroes are a good idea since they're very simple, but still open for countless opportunities. There are ideas listed for heroes [here](#ideas-a), but the most important ones by what I think are more prestige tokens and __...__. Getting more prestige tokens makes progression feel fast and lets palyers to try out the later upgrades.
 A hero with only a multiplier one stat like sel price or mining speed is not a good idea, since that wouldn't make the gameplay less repeative.
 
-Dimensions really shines on being less repeative. With custom prestigemaster rewards and the ability to switch between dimesnion, players will find differences and feel it less repeatitive.
-Dimsensions also solve the issue of people thinking ascensions not being worth it after ascensioning: You can always go back the the original dimension.
-Implemention dimensions will require a lot of thought and balancing, and therefore take more time to implement.
+Dimensions really shines on being less repetitive. With custom prestigemaster rewards and the ability to switch between dimesnion, players will find differences and feel it less repeatitive.
+Dimensions also solve the issue of people thinking ascensions not being worth it after ascensioning: You can always go back the the original dimension.
+Implementation dimensions will require a lot of thought and balancing, and therefore take more time to implement.
 
 Both concepts handle guilds well, but I like more the way of concept A. This no longer merges top players and high guild buffs, allowing the top players to choose from a much larger set with still having maximum guild buff.
-And not only that, but lower prestige palyers from ascension 0 would get the change on being on top guilds and having significant impact in the guild buff.
+And not only that, but lower prestige players from ascension 0 would get the change on being on top guilds and having significant impact in the guild buff.
 
 My personal votes go 60% for no new forms, 30% for ascensions and 10% for dimensions.
 
@@ -152,13 +152,13 @@ I think that a new form of progression should be added. The only flaw I can thin
 Ascensions seems much easier than dimensions. Ascensions shouldn't become too easy however. Neither should dimenenions be too challenging.
 I prefer ascensions over dimensions.
 
-### Lenny#1224 (Presite 421) <a name="opinion-lenny"></a>
+### Lenny#1224 (Prestige 421) <a name="opinion-lenny"></a>
 
 No reason to not. (implementing a new form of progression.)
 
 Thing is I am very top heavy towards the concept of ascension because it can be extremely helpful to higher prestige players have more motivation to play. Some players 500pr+ are or have quit because there are no form of high level prestige rewards other than getting another token every 90pms.
 
-If concept A was added, we could make the "heros" buffs* be like 1.5x sell and mining + .5x per every 500 Prestiges after pr 250
+If concept A was added, we could make the "heroes" buffs* be like 1.5x sell and mining + .5x per every 500 Prestiges after pr 250
 Another could be:
 1.2x more shards per hunt + .1x per 750 prs after pr 1000
 Last one I can think of right now is:
@@ -213,7 +213,7 @@ my overall opinion is positive about ascension no matter which concept (current 
 
 Ideas for hero abilities:
 - **More prestige tokens**: It could be either a multiplier or an addition. This would make the late shop features more accessible and make it feel more pregressed.
-- **Credits**: If want to keep credits donor exclusive don't add this
+- **Credits**: If you want to keep credits donor exclusive don't add this
 - **Time traveller 2**: More chance for time traveller
 - **More crystals**: Get crystals more often
 - **Little rework on pet chances**: Either mythical pets could get little more common or just overall reduce change of not getting pet.
